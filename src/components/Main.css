@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+  .mainbody {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .mainBody {
+    margin-left: 5rem;
+    padding: 1rem;
+  }
+}
