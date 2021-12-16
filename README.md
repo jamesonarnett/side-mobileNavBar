@@ -1,8 +1,8 @@
 # side-mobileNavBar
 Side page/mobile responsive navbar 
 
-# quickPractice
+# /quickPractice
 Vanilla folder. 
 
-# myreactsite
+# /src
 React app, similar styles.
